@@ -18,7 +18,7 @@ This project predicts credit card approval outcomes using machine learning model
 - **Reduce systematic bias** in credit approvals.
 
 ## Datasets
-- **Credit Card Application Dataset** (UC Irvine Machine Learning Repository): Contains applicant details and approval status.
+- **Credit Card Application Dataset** ([UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/27/credit+approval)): Contains applicant details and approval status.
 
 ## Findings & Recommendations
 - **Random Forest achieved the best balance between accuracy (0.75) and generalization (OSR² = 0.27)**, making it the most suitable model for financial institutions optimizing approvals.
